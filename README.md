@@ -102,6 +102,8 @@ RESTful API modeled after university enrollment systems. Emphasized clean archit
 - Currently flying in **[X-Plane 12](https://www.x-plane.com/)**
 - Tracking flights on **[Volanta](https://fly.volanta.app/profile/tridiktya_hp/statistics)**
 - Flight sim enthusiast since childhood, mainly fly solo using default AI ATC (will learn to use VATSIM soon!)
+- Favorite aircrafts: Laminar Research A330-300 and B737-800 (XP12 Default)
+- Waiting for FF A350v2
 - Currently exploring IFR procedures and simulating real-world routes
 - Passionate about bridging aviation and tech through software projects
 > *Still learning how to keep the centerline and butter every landing.*
